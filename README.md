@@ -1,4 +1,4 @@
-Much of the initial code for these was already given.
+Selection of labs and projects from two VHDL classes.
 
 * 316/project: 8-bit calculator operated with switches
 * 417/lab1: 1-bit adder
